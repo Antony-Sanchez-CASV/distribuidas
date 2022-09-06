@@ -6,6 +6,8 @@ Arquitectura de la solcucion
 ![image](https://user-images.githubusercontent.com/85172489/188647022-aff7432a-e5f7-4a95-a0a1-5eb8e8c254b8.png)
 
 </br>
+![image](https://user-images.githubusercontent.com/85172489/188652957-b4f927ba-599e-45d5-bb90-5bc222350524.png)
+</br>
 Tanto el balanciador de carga como el failover estan ubcados en el servidor master que maneja a los otros cluster.
 En este proyecto utilizamos minikube para la creacion de los mismos.
 
