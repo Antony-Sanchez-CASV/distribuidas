@@ -9,41 +9,26 @@
 
 ![image](https://user-images.githubusercontent.com/85172489/188652957-b4f927ba-599e-45d5-bb90-5bc222350524.png)
 
-</br>
+## Manifiesto para hacer el deploy
+Dentro de la carpeta filesToDeply de este repositorio podran encontrar un archivo .yaml que sirve para realizara el deploymet de la aplicacion HelloWorld 
+
+El manifiesto consta de dos partes: 
+1. El deploy de la imagen de la aplicacion  
+![image](https://user-images.githubusercontent.com/58042023/188667059-c8c4af2d-0c98-475d-b358-c00e8193f3ee.png)  
+
+2. El levantamiento del servicio  
+![image](https://user-images.githubusercontent.com/58042023/188667100-90a4fc4b-1e1c-4d7c-906e-d1eb84674198.png)
 
 </br>
 
-![image](https://user-images.githubusercontent.com/85172489/188647022-aff7432a-e5f7-4a95-a0a1-5eb8e8c254b8.png)
-
-</br>
-
-Tanto el balanciador de carga como el failover estan ubcados en el servidor master que maneja a los otros cluster.
-En este proyecto utilizamos minikube para la creacion de los mismos.
-
-La configuracion del balanciador de carga.
-</br>
-![image](https://user-images.githubusercontent.com/85172489/188649301-563a2ccc-b8d4-4d5d-a061-fd7e8150786c.png)
-</br>
-
-Costos Aproximados en plataformas de cloud
+## Cotizacion de la implementación de la solucion de forma hipotética
 En la actualidad muchos servicios en la nube nos permiten crear servidores y soluciones con Docker como es el caso de AWS. En estos se cobra por el nivel de trafico que tiene. En el siguiente grafico se encuentran unas referencias de precios.
 </br>
 ![image](https://user-images.githubusercontent.com/85172489/188645231-f0739f12-bec4-4336-bb0b-4e1dc7c058f0.png)
 [1]
 </br>
 
-
-Anexos
-<li>
-  link de youtube. Manual de usuario/explicacion.
-  </br>
-  https://youtu.be/5ZxOrd7ykFw
-  </br>
-  https://youtu.be/BIt5VM4KHt4
-</li>
-
-
-
+Basado en estos precios en teniendo en cuenta el tipoi de apliacion que hemos levantado en este proyecto, los costes que potencialmente dariamos al servicio de balanceo de carga serían: 
 
 <h2>
   Referencias
