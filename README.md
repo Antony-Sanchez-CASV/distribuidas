@@ -1,5 +1,9 @@
 # Proyecto Final de Aplicciones Distribuidas
-Arquitectura de la solcucion
+
+## Video  de Manual de usuario: [clic aqui!](https://youtu.be/5ZxOrd7ykFw)  
+## Video de Arquitectura y Fucionalidad: [clic aquí](https://youtu.be/BIt5VM4KHt4)
+
+## Arquitectura de la solución
 
 </br>
 
