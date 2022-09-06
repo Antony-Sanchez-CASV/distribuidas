@@ -4,6 +4,9 @@ Arquitectura de la solcucion
 ![image](https://user-images.githubusercontent.com/85172489/188647022-aff7432a-e5f7-4a95-a0a1-5eb8e8c254b8.png)
 </br>
 Tanto el balanciador de carga como el failover estan ubcados en el servidor masterquemaneja a los otros cluster.
+La configuracion del balanciador de carga
+![image](https://user-images.githubusercontent.com/85172489/188649301-563a2ccc-b8d4-4d5d-a061-fd7e8150786c.png)
+</br>
 
 Costos Aproximados en plataformas de cloud
 En la c¿actualidad muchos servicios en la nube nos permiten crear servidores y soluciones con Docker como es el caso de AWS. En estos  
