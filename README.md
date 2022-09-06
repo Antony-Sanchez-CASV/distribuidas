@@ -30,7 +30,18 @@ Anexos
 
 
 
-Referencias
-[1] "¿Qué es Digital Ocean?" Back4App Blog. https://blog.back4app.com/es/que-es-digital-ocean/#:~:text=Digital%20Ocean%20ofrece%20precios%20de%20transferencia%20extremadamente%20bajos.,video,%20almacenamiento%20en%20la%20nube%20y%20conferencias%20web.
-[2] "Service". Kubernetes. https://kubernetes.io/es/docs/concepts/services-networking/service/ 
-[3] "Kubernetes failover scenarios on a clustered Azure Stack Edge Pro GPU, Pro R, Mini R device". Developer tools, technical documentation and coding examples | Microsoft Docs. https://docs.microsoft.com/en-us/azure/databox-online/azure-stack-edge-gpu-kubernetes-failover-scenarios
+<h2>
+  Referencias
+</h2>
+<ul>
+  <li>
+    [1] "¿Qué es Digital Ocean?" Back4App Blog. https://blog.back4app.com/es/que-es-digital-ocean/#:~:text=Digital%20Ocean%20ofrece%20precios%20de%20transferencia%20extremadamente%20bajos.,video,%20almacenamiento%20en%20la%20nube%20y%20conferencias%20web.
+  </li>
+  <li>
+    [2] "Service". Kubernetes. https://kubernetes.io/es/docs/concepts/services-networking/service/ 
+  </li>
+  <li>
+    [3] "Kubernetes failover scenarios on a clustered Azure Stack Edge Pro GPU, Pro R, Mini R device". Developer tools, technical documentation and coding examples | Microsoft Docs. https://docs.microsoft.com/en-us/azure/databox-online/azure-stack-edge-gpu-kubernetes-failover-scenarios
+  </li>
+  
+</ul>
