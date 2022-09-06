@@ -28,7 +28,8 @@ En la actualidad muchos servicios en la nube nos permiten crear servidores y sol
 [1]
 </br>
 
-Basado en estos precios en teniendo en cuenta el tipoi de apliacion que hemos levantado en este proyecto, los costes que potencialmente dariamos al servicio de balanceo de carga serían: 
+Basado en estos precios en teniendo en cuenta el tipo de apliacion que hemos levantado en este proyecto, los costes que potencialmente dariamos al servicio de balanceo de carga serían: 80 dolares anuales. 
+En el que cuentan servicio de unos 3 clusters, mas el mantenimiento de los mismos, ademas del servicio de hosting en Digital Ocean con un estimado de 200 usuarios por mes, y un maximo uso de ancho de banda de 1GB.
 
 <h2>
   Referencias
@@ -42,6 +43,9 @@ Basado en estos precios en teniendo en cuenta el tipoi de apliacion que hemos le
   </li>
   <li>
     [3] "Kubernetes failover scenarios on a clustered Azure Stack Edge Pro GPU, Pro R, Mini R device". Developer tools, technical documentation and coding examples | Microsoft Docs. https://docs.microsoft.com/en-us/azure/databox-online/azure-stack-edge-gpu-kubernetes-failover-scenarios
+  </li>
+  <li>
+  [4]"Mantenimiento informático: precios y tarifas. - Microsyscom". Mantenimiento Informatico Madrid " Grupo Microsyscom". https://microsyscom.com/mantenimiento-informatico-precios/#:~:text=·%20Más%20de%2010%20ordenadores,%20tendría%20un%20precio,2.%20Contrato%20y%20plan%20de%20cada%20servicio%20técnico.
   </li>
   
 </ul>
